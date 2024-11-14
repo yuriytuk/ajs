@@ -1,0 +1,19 @@
+{
+  "name": "@yuriytuk/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yuriytuk/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriytuk/ajs/issues"
+  },
+  "homepage": "https://github.com/yuriytuk/ajs#readme"
+}
